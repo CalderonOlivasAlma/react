@@ -5,7 +5,7 @@ import {Helmet} from "react-helmet";
 function App() {
   return (
     <div className="App">
-      <h1>Google Maps App</h1>
+      <h1>Google Maps App Prueba GIt</h1>
       <GoogleMap />
 
       <Helmet>
